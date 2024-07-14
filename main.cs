@@ -3,6 +3,8 @@ using System.Threading.Tasks;
 using Telegram.Bot;
 using Telegram.Bot.Types.Enums;
 
+//         - #  Coded By DeadSec 
+
 class Program
 {
     static async Task Main(string[] args)
